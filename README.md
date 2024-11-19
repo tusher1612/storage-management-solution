@@ -58,7 +58,7 @@ Make sure you have the following installed on your machine:
 
 ```bash
 git clone https://github.com/tusher1612/storage-management-solution.git
-cd storage_management
+cd storage_management-solution
 ```
 
 **Installation**
